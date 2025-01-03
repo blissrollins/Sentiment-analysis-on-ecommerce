@@ -1,0 +1,13 @@
+Start,End,Text
+0,1,"Est: 10, Depth: 10 ,Precision: 0.795 , Recall: 0.709 , Accuracy: 0.709"
+1,2,"Est: 10, Depth: 20 ,Precision: 0.889 , Recall: 0.866 , Accuracy: 0.866"
+2,3,"Est: 10, Depth: 30 ,Precision: 0.884 , Recall: 0.857 , Accuracy: 0.857"
+3,4,"Est: 10, Depth: None ,Precision: 0.943 , Recall: 0.938 , Accuracy: 0.938"
+4,5,"Est: 50, Depth: 10 ,Precision: 0.887 , Recall: 0.882 , Accuracy: 0.882"
+5,6,"Est: 50, Depth: 20 ,Precision: 0.897 , Recall: 0.88 , Accuracy: 0.88"
+6,7,"Est: 50, Depth: 30 ,Precision: 0.894 , Recall: 0.891 , Accuracy: 0.891"
+7,8,"Est: 50, Depth: None ,Precision: 0.943 , Recall: 0.938 , Accuracy: 0.938"
+8,9,"Est: 100, Depth: 10 ,Precision: 0.878 , Recall: 0.871 , Accuracy: 0.871"
+9,10,"Est: 100, Depth: 20 ,Precision: 0.901 , Recall: 0.885 , Accuracy: 0.885"
+10,11,"Est: 100, Depth: 30 ,Precision: 0.927 , Recall: 0.927 , Accuracy: 0.927"
+11,12,"Est: 100, Depth: None ,Precision: 0.943 , Recall: 0.938 , Accuracy: 0.938"
